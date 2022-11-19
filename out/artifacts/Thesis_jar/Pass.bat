@@ -1,0 +1,1 @@
+javaw --module-path "./javafx-sdk-19/lib;./lib" --add-modules javafx.controls,javafx.fxml,java.persistence,java.sql,sqlite.dialect,org.hibernate.orm.core,net.bytebuddy,com.fasterxml.classmate,java.xml.bind -jar Thesis.jar
